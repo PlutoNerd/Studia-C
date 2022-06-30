@@ -1,0 +1,11 @@
+D:\programy c#\Ćwiczenie_3_Pluta\bin\Debug\Ćwiczenie_3_Pluta.exe.config
+D:\programy c#\Ćwiczenie_3_Pluta\bin\Debug\Ćwiczenie_3_Pluta.exe
+D:\programy c#\Ćwiczenie_3_Pluta\bin\Debug\Ćwiczenie_3_Pluta.pdb
+D:\programy c#\Ćwiczenie_3_Pluta\obj\Debug\Ćwiczenie_3_Pluta.csproj.AssemblyReference.cache
+D:\programy c#\Ćwiczenie_3_Pluta\obj\Debug\Ćwiczenie_3_Pluta.csproj.SuggestedBindingRedirects.cache
+D:\programy c#\Ćwiczenie_3_Pluta\obj\Debug\Ćwiczenie_3_Pluta.Form1.resources
+D:\programy c#\Ćwiczenie_3_Pluta\obj\Debug\Ćwiczenie_3_Pluta.Properties.Resources.resources
+D:\programy c#\Ćwiczenie_3_Pluta\obj\Debug\Ćwiczenie_3_Pluta.csproj.GenerateResource.cache
+D:\programy c#\Ćwiczenie_3_Pluta\obj\Debug\Ćwiczenie_3_Pluta.csproj.CoreCompileInputs.cache
+D:\programy c#\Ćwiczenie_3_Pluta\obj\Debug\Ćwiczenie_3_Pluta.exe
+D:\programy c#\Ćwiczenie_3_Pluta\obj\Debug\Ćwiczenie_3_Pluta.pdb

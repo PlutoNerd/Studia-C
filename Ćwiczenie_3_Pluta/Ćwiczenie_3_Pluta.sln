@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ćwiczenie_3_Pluta", "Ćwiczenie_3_Pluta.csproj", "{687FCC33-C0F5-4AF9-BD3D-7A69B0685F29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{687FCC33-C0F5-4AF9-BD3D-7A69B0685F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687FCC33-C0F5-4AF9-BD3D-7A69B0685F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687FCC33-C0F5-4AF9-BD3D-7A69B0685F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687FCC33-C0F5-4AF9-BD3D-7A69B0685F29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BA21683-7862-4DDD-B3BD-0943CE97B219}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+D:\programy c#\Cwieczenie_2_Pluta\bin\Debug\Cwieczenie_2_Pluta.exe.config
+D:\programy c#\Cwieczenie_2_Pluta\bin\Debug\Cwieczenie_2_Pluta.exe
+D:\programy c#\Cwieczenie_2_Pluta\bin\Debug\Cwieczenie_2_Pluta.pdb
+D:\programy c#\Cwieczenie_2_Pluta\obj\Debug\Cwieczenie_2_Pluta.csproj.AssemblyReference.cache
+D:\programy c#\Cwieczenie_2_Pluta\obj\Debug\Cwieczenie_2_Pluta.csproj.SuggestedBindingRedirects.cache
+D:\programy c#\Cwieczenie_2_Pluta\obj\Debug\Cwieczenie_2_Pluta.Form1.resources
+D:\programy c#\Cwieczenie_2_Pluta\obj\Debug\Cwieczenie_2_Pluta.Properties.Resources.resources
+D:\programy c#\Cwieczenie_2_Pluta\obj\Debug\Cwieczenie_2_Pluta.csproj.GenerateResource.cache
+D:\programy c#\Cwieczenie_2_Pluta\obj\Debug\Cwieczenie_2_Pluta.csproj.CoreCompileInputs.cache
+D:\programy c#\Cwieczenie_2_Pluta\obj\Debug\Cwieczenie_2_Pluta.exe
+D:\programy c#\Cwieczenie_2_Pluta\obj\Debug\Cwieczenie_2_Pluta.pdb
