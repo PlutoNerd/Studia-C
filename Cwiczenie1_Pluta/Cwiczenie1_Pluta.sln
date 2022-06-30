@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cwiczenie1_Pluta", "Cwiczenie1_Pluta.csproj", "{61819AD0-1906-4029-90B4-B02E40E1B6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61819AD0-1906-4029-90B4-B02E40E1B6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61819AD0-1906-4029-90B4-B02E40E1B6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61819AD0-1906-4029-90B4-B02E40E1B6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61819AD0-1906-4029-90B4-B02E40E1B6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5412B28F-17AF-4A1A-9316-6A4B3E9F1A8E}
+	EndGlobalSection
+EndGlobal
