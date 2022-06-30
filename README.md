@@ -6,7 +6,7 @@
 
 Projekty zrealizownano w programie Visual Studio 2022
 
-# Ćwiczenie 1[➥](#-Zawartość)
+# Ćwiczenie 1[➥](#Zawartość)
 Napisać program, który będzie liczył metodą iteacji pierwiastek kwadratowy, exponentę, sinusa oraz cosinusa  podanej przez użytkownika wartości X.
 
 mój kod:
@@ -214,7 +214,7 @@ namespace Cwiczenie1_Pluta
  }
 ```
 
-# Ćwiczenie 2[➥](#-Zawartość)
+# Ćwiczenie 2[➥](#Zawartość)
 Npisać program liczący funkcję y=ax^3 + bx^2 + cx + d 3 metodami iteracyjnymi Newtona, bisekcji oraz Falsi. Użytkownik podaje wartości a,b,c,d. Wyświetlać kolejne iteracje w polu tekstowym.
 
 ```cpp
@@ -470,7 +470,7 @@ namespace Cwieczenie_2_Pluta
 
 ```
 
-# Ćwiczenie 3[➥](#-Zawartość)
+# Ćwiczenie 3[➥](#Zawartość)
 
 ```cpp
 namespace Ćwiczenie_3_Pluta
