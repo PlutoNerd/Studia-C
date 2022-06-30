@@ -1,13 +1,17 @@
-# Studia-C
-Moje projekty na studia UMG
+## Zawartość
+
+- [Ćwiczenie 1](#Cwiczenie-1)
+- [Ćwiczenie 2](#Cwiczenie-2)
+- [Ćwiczenie 3](#Cwiczenie-3)
 
 Projekty zrealizownano w programie Visual Studio 2022
 
-Ćwiczenie 1. Napisać program, który będzie liczył metodą iteacji pierwiastek kwadratowy, exponentę, sinusa oraz cosinusa  podanej przez użytkownika wartości X.
+# Ćwiczenie 1[➥](#-zawartość)
+Napisać program, który będzie liczył metodą iteacji pierwiastek kwadratowy, exponentę, sinusa oraz cosinusa  podanej przez użytkownika wartości X.
 
 mój kod:
 
-
+```cpp
 namespace Cwiczenie1_Pluta
 {
  public partial class Form1 : Form
@@ -219,3 +223,4 @@ namespace Cwiczenie1_Pluta
         
     }
  }
+```
