@@ -1,8 +1,8 @@
 ## Zawartość
 
-- [Ćwiczenie 1](#Cwiczenie-1)
-- [Ćwiczenie 2](#Cwiczenie-2)
-- [Ćwiczenie 3](#Cwiczenie-3)
+- [Ćwiczenie 1](#Cwiczenie 1)
+- [Ćwiczenie 2](#Cwiczenie 2)
+- [Ćwiczenie 3](#Cwiczenie 3)
 
 Projekty zrealizownano w programie Visual Studio 2022
 
